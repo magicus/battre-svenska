@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": "§6Bättre svenska\n§rav §emagicus§r"
+  },
+  "language": {
+    "sv_se": {
+      "name": "Svenska",
+      "region": "Sverige"
+    }
+  }
+}
